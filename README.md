@@ -8,3 +8,5 @@ In this exercise, you'll be responsible for reviewing 3 samples of code. Each su
 |- Develop software in a team
     |- Participate in a Code Review
 ```
+
+## new cool thing
